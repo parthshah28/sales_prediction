@@ -49,6 +49,7 @@ Then I have merged both data frames together based on **'store'**
 ## Algortithm Used
 
 **Facebook Prophet**
+
 Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data.
 
 <table><tr><td><img src='https://github.com/parthshah28/sales_prediction/blob/main/images/5.png'></td><td><img src='https://github.com/parthshah28/sales_prediction/blob/main/images/6.png'></td></tr></table>
