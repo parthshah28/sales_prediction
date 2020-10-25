@@ -4,12 +4,11 @@ Predicting future daily sales based on the given features using **fbprophet**.
 
 ## Dataset
 
-[Data Source] (https://www.kaggle.com/c/rossmann-store-sales/data)
+[Data Source](https://www.kaggle.com/c/rossmann-store-sales/data)
+
 
 **Sales Train Data**
-
-almost a million observation;
-1115 unique stores 
+almost a million observation, 1115 unique stores 
 
 Note that sales is the target variable (that's what we are trying to predict) 
  
@@ -23,6 +22,7 @@ StateHoliday: indicate which state holiday (a = public holiday, b = Easter holid
 SchoolHoliday: indicates if the (Store, Date) was affected by the closure of public schools***
 
 ![](https://github.com/parthshah28/sales_prediction/blob/main/images/1.png)
+
 
 **Store Info Data**
 
